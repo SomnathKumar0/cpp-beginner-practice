@@ -1,2 +1,16 @@
-# cpp-beginner-practice
-Beginner C++ programs while learning fundamentals and problem solving
+# C++ Beginner Practice
+
+A collection of C++ programs created while learning core programming concepts and problem solving.
+
+## Topics Covered
+
+* Variables & Data Types
+* Operators
+* Type Casting
+* Conditional Logic
+* Switch Statements
+* Ternary Operator
+* Arithmetic Applications
+* Basic Problem Solving
+
+More programs will be added regularly.
