@@ -9,7 +9,6 @@ A collection of C++ programs created while learning core programming concepts an
 * Type Casting
 * Conditional Logic
 * Switch Statements
-* Ternary Operator
 * Arithmetic Applications
 * Basic Problem Solving
 
